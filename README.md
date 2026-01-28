@@ -1,50 +1,82 @@
-# Welcome to your Expo app 👋
+# 🌊 HabitFlow
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+Günlük alışkanlıklarınızı takip edin, hedeflerinize ulaşın!
 
-## Get started
+## 📱 Proje Hakkında
 
-1. Install dependencies
+HabitFlow, kullanıcıların günlük alışkanlıklarını takip etmelerine, streak'lerini korumalarına ve gamification öğeleriyle motive olmalarına yardımcı olan bir React Native uygulamasıdır.
 
-   ```bash
-   npm install
-   ```
+## 🚀 Özellikler (Planlanan)
 
-2. Start the app
+- ✅ Dark/Light Mode
+- ✅ Modern UI/UX
+- 🔄 Alışkanlık ekleme ve takip
+- 🔄 Streak (seri) sistemi
+- 🔄 İstatistik ve grafikler
+- 🔄 Badge ve level sistemi
+- 🔄 Bildirim desteği
+- 🔄 Firebase entegrasyonu
 
-   ```bash
-   npx expo start
-   ```
+## 🛠️ Teknoloji Stack
 
-In the output, you'll find options to open the app in a
+- **Framework:** React Native (Expo)
+- **Navigation:** React Navigation
+- **State Management:** Zustand
+- **Language:** TypeScript
+- **Backend:** Firebase (planlanan)
+- **UI:** React Native Paper (planlanan)
 
-- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
-- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
-- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
-- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
+## 📂 Proje Yapısı
 
-You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
-
-## Get a fresh project
-
-When you're ready, run:
-
-```bash
-npm run reset-project
+```
+src/
+├── components/     # Yeniden kullanılabilir componentler
+├── screens/        # Ekranlar
+├── navigation/     # Navigation yapısı
+├── store/          # Zustand store'lar
+├── constants/      # Sabitler (tema, renkler)
+├── types/          # TypeScript tipleri
+├── services/       # API servisleri
+└── utils/          # Yardımcı fonksiyonlar
 ```
 
-This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
+## 🏃‍♂️ Kurulum
 
-## Learn more
+```bash
+# Repository'yi klonla
+git clone https://github.com/KULLANICI_ADIN/HabitFlow.git
 
-To learn more about developing your project with Expo, look at the following resources:
+# Dizine gir
+cd HabitFlow
 
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
+# Bağımlılıkları yükle
+npm install
 
-## Join the community
+# Uygulamayı başlat
+npx expo start
+```
 
-Join our community of developers creating universal apps.
+## 📸 Ekran Görüntüleri
 
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+_Yakında eklenecek..._
+
+## 📝 Geliştirme Aşamaları
+
+- [x] Faz 1: Proje yapısı ve navigation
+- [ ] Faz 2: Authentication
+- [ ] Faz 3: Alışkanlık ekleme ve listeleme
+- [ ] Faz 4: Check-in sistemi
+- [ ] Faz 5: İstatistik ve görselleştirme
+- [ ] Faz 6: Gamification
+- [ ] Faz 7: Tema ve kişiselleştirme
+
+## 👨‍💻 Geliştirici
+
+**[İsmin]**
+
+- GitHub: [@furkanbalcii](https://github.com/furkanbalcii)
+- LinkedIn: [https://www.linkedin.com/in/muhammed-furkan-balc%C4%B1-23a84626b/]
+
+## 📄 Lisans
+
+MIT License
