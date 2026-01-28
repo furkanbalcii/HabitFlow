@@ -44,7 +44,7 @@ src/
 
 ```bash
 # Repository'yi klonla
-git clone https://github.com/KULLANICI_ADIN/HabitFlow.git
+git clone https://github.com/furkanbalcii/HabitFlow.git
 
 # Dizine gir
 cd HabitFlow
@@ -75,7 +75,7 @@ _Yakında eklenecek..._
 **[İsmin]**
 
 - GitHub: [@furkanbalcii](https://github.com/furkanbalcii)
-- LinkedIn: [https://www.linkedin.com/in/muhammed-furkan-balc%C4%B1-23a84626b/]
+- LinkedIn: https://www.linkedin.com/in/muhammed-furkan-balc%C4%B1-23a84626b/
 
 ## 📄 Lisans
 
