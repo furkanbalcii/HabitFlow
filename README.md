@@ -72,7 +72,7 @@ _Yakında eklenecek..._
 
 ## 👨‍💻 Geliştirici
 
-**[İsmin]**
+**Muhammed Furkan Balcı**
 
 - GitHub: [@furkanbalcii](https://github.com/furkanbalcii)
 - LinkedIn: https://www.linkedin.com/in/muhammed-furkan-balc%C4%B1-23a84626b/
